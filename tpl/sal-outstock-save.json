@@ -1,0 +1,192 @@
+{
+  "Creator": "",
+  "NeedUpDateFields": [],
+  "NeedReturnFields": [],
+  "IsDeleteEntry": "True",
+  "SubSystemId": "",
+  "IsVerifyBaseDataField": "false",
+  "IsEntryBatchFill": "True",
+  "Model": {
+    "FID": "0",
+    "FBillTypeID": {
+      "FNumber": "XSCKD01_SYS"
+    },
+    "FBillNo": "",
+    "FDate": "",
+    "FSaleOrgId": {
+      "FNumber": ""
+    },
+    "FSaleDeptID": {
+      "FNumber": ""
+    },
+    "FCustomerID": {
+      "FNumber": ""
+    },
+    "FHeadLocationId": {
+      "FNUMBER": ""
+    },
+    "FCorrespondOrgId": {
+      "FNumber": ""
+    },
+    "FCarrierID": {
+      "FNumber": ""
+    },
+    "FCarriageNO": "",
+    "FSalesGroupID": {
+      "FNumber": ""
+    },
+    "FSalesManID": {
+      "FNumber": ""
+    },
+    "FStockOrgId": {
+      "FNumber": ""
+    },
+    "FDeliveryDeptID": {
+      "FNumber": ""
+    },
+    "FStockerGroupID": {
+      "FNumber": ""
+    },
+    "FStockerID": {
+      "FNumber": ""
+    },
+    "FNote": "",
+    "FReceiverID": {
+      "FNumber": ""
+    },
+    "FReceiveAddress": "",
+    "FSettleID": {
+      "FNumber": ""
+    },
+    "FReceiverContactID": {
+      "FName": ""
+    },
+    "FPayerID": {
+      "FNumber": ""
+    },
+    "FOwnerTypeIdHead": "BD_OwnerOrg",
+    "FOwnerIdHead": {
+      "FNumber": ""
+    },
+    "FScanBox": "",
+    "FCDateOffsetUnit": "",
+    "FCDateOffsetValue": 0,
+    "FPlanRecAddress": "",
+    "FIsTotalServiceOrCost": false,
+    "SubHeadEntity": {
+      "FSettleCurrID": {
+        "FNumber": "PRE001"
+      },
+      "FThirdBillNo": "",
+      "FThirdBillId": "",
+      "FThirdSrcType": "",
+      "FSettleOrgID": {
+        "FNumber": ""
+      },
+      "FSettleTypeID": {
+        "FNumber": ""
+      },
+      "FReceiptConditionID": {
+        "FNumber": ""
+      },
+      "FPriceListId": {
+        "FNumber": ""
+      },
+      "FDiscountListId": {
+        "FNumber": ""
+      },
+      "FIsIncludedTax": true,
+      "FLocalCurrID": {
+        "FNumber": "PRE001"
+      },
+      "FExchangeTypeID": {
+        "FNumber": "HLTX01_SYS"
+      },
+      "FExchangeRate": 1,
+      "FIsPriceExcludeTax": true
+    },
+    "FEntity": [
+      {
+        "FENTRYID": null,
+        "FRowType": "Standard",
+        "FCustMatID": {
+          "FNumber": ""
+        },
+        "FMaterialID": {
+          "FNumber": ""
+        },
+        "FUnitID": {
+          "FNumber": ""
+        },
+        "FInventoryQty": "",
+        "FParentMatId": {
+          "FNumber": ""
+        },
+        "FRealQty": "",
+        "FDisPriceQty": 0,
+        "FPrice": "",
+        "FTaxPrice": "",
+        "FIsFree": false,
+        "FBomID": {
+          "FNumber": ""
+        },
+        "FProduceDate": null,
+        "FOwnerTypeID": "BD_OwnerOrg",
+        "FOwnerID": {
+          "FNumber": ""
+        },
+        "FLot": {
+          "FNumber": ""
+        },
+        "FExpiryDate": null,
+        "FTaxCombination": {
+          "FNumber": ""
+        },
+        "FEntryTaxRate": 0,
+        "FAuxUnitQty": 0,
+        "FExtAuxUnitId": {
+          "FNumber": ""
+        },
+        "FExtAuxUnitQty": 0,
+        "FStockID": {
+          "FNumber": ""
+        },
+        "FStockStatusID": {
+          "FNumber": ""
+        },
+        "FQualifyType": "",
+        "FMtoNo": null,
+        "FEntrynote": null,
+        "FDiscountRate": 0,
+        "FActQty": 0,
+        "FSalUnitID": {
+          "FNumber": ""
+        },
+        "FSALUNITQTY": "",
+        "FSALBASEQTY": "",
+        "FPRICEBASEQTY": "",
+        "FProjectNo": null,
+        "FOUTCONTROL": false,
+        "FRepairQty": 0,
+        "FIsCreateProDoc": "",
+        "FEOwnerSupplierId": {
+          "FNumber": ""
+        },
+        "FIsOverLegalOrg": false,
+        "FESettleCustomerId": {
+          "FNumber": ""
+        },
+        "FPriceListEntry": {
+          "FNumber": ""
+        },
+        "FARNOTJOINQTY": 1,
+        "FQmEntryID": 0,
+        "FConvertEntryID": 0,
+        "FSOEntryId": 0,
+        "FThirdEntryId": null,
+        "FBeforeDisPriceQty": 0,
+        "FSignQty": 0
+      }
+    ]
+  }
+}

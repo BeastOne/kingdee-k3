@@ -1,0 +1,105 @@
+{
+  "Creator": "",
+  "NeedUpDateFields": [],
+  "NeedReturnFields": [],
+  "IsDeleteEntry": "True",
+  "SubSystemId": "",
+  "IsVerifyBaseDataField": "false",
+  "IsEntryBatchFill": "True",
+  "Model": {
+    "FID": "0",
+    "FBillTypeID": {
+      "FNumber": "SKTKDLX01_SYS"
+    },
+    "FBillNo": "",
+    "FDATE": "",
+    "FCONTACTUNITTYPE": "BD_Customer",
+    "FDepartment": {
+      "FNumber": ""
+    },
+    "FISINIT": false,
+    "FCONTACTUNIT": {
+      "FNumber": ""
+    },
+    "FSETTLERATE": 1.0,
+    "FDOCUMENTSTATUS": "Z",
+    "FRECTUNITTYPE": "BD_Customer",
+    "FRECTUNIT": {
+      "FNumber": ""
+    },
+    "FCURRENCYID": {
+      "FNumber": "PRE001"
+    },
+    "FSETTLEORGID": {
+      "FNumber": ""
+    },
+    "FSALEORGID": {
+      "FNumber": ""
+    },
+    "FSALEDEPTID": {
+      "FNumber": ""
+    },
+    "FSALEGROUPID": {
+      "FNumber": ""
+    },
+    "FSALEERID": {
+      "FNumber": ""
+    },
+    "FEXCHANGERATE": 1.0,
+    "FCancelStatus": "A",
+    "FScanPoint": {
+      "FNumber": ""
+    },
+    "FPAYORGID": {
+      "FNumber": ""
+    },
+    "FISSAMEORG": true,
+    "FSETTLECUR": {
+      "FNumber": "PRE001"
+    },
+    "FISB2C": false,
+    "FIsWriteOff": false,
+    "FSOURCESYSTEM": "0",
+    "FMatchMethodID": 0,
+    "FREMARK": "",
+    "FBookingDate": "1900-01-01",
+    "FREFUNDBILLENTRY": [{
+      "FEntryID": null,
+      "FSETTLETYPEID": {
+        "FNumber": ""
+      },
+      "FPURPOSEID": {
+        "FNumber": ""
+      },
+      "FREFUNDAMOUNTFOR": 0.0,
+      "FREFUNDAMOUNTFOR_E": 0.0,
+      "FHANDLINGCHARGEFOR": 0.0,
+      "FACCOUNTID": {
+        "FNumber": ""
+      },
+      "FINNERACCOUNTID": {
+        "FNumber": ""
+      },
+      "FCashAccount": {
+        "FNumber": ""
+      },
+      "FSETTLENO": null,
+      "FNOTE": "",
+      "FOpenAddressRec": null,
+      "FRecType": "0",
+      "FREFUNDAMOUNT_E": 0.0,
+      "FPOSTDATE": "",
+      "FISPOST": true,
+      "FSALEORDERNUMBER": null,
+      "FMATERIALID": {
+        "FNumber": ""
+      },
+      "FMATERIALSEQ": 0,
+      "FORDERENTRYID": 0,
+      "FRuZhangType": "1",
+      "FEBMSG": null,
+      "FPayType": "A",
+      "FSwiftCode": null
+    }]
+  }
+}

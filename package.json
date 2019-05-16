@@ -1,0 +1,33 @@
+{
+  "name": "kingdee-k3",
+  "version": "1.0.0",
+  "description": "Kingdee K3 Cloud.",
+  "engines": {
+    "node": ">= 8.2"
+  },
+  "main": "./lib",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeastOne/node_k3.git"
+  },
+  "keywords": [
+    "Kingdee",
+    "K3"
+  ],
+  "author": "Quin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BeastOne/node_k3/issues"
+  },
+  "homepage": "https://github.com/BeastOne/node_k3#readme",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "kingdee-k3-webapi": "^1.0.0"
+  }
+}

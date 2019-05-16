@@ -1,0 +1,9 @@
+{
+  "FormId": "BD_MATERIAL",
+  "FilterString": "",
+  "FieldKeys": "FNumber,FBaseProperty,FMaterialGroup.FName,FName,FSpecification,FCreateOrgId,FUseOrgId",
+  "OrderString": "",
+  "TopRowCount": "0",
+  "StartRow": "0",
+  "Limit": "10"
+}

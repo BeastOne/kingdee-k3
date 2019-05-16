@@ -1,0 +1,9 @@
+{
+    "FormId": "STK_Inventory",
+    "FilterString": "",
+    "FieldKeys": "FStockOrgId,FStockId,FStockName,FStockLocId,FStockStatusId,FMaterialId,FBaseProperty,FMaterialName,FModel,FStockUnitId,FBaseQty,FQty,FBaseAVBQty,FAVBQty",
+    "OrderString": "",
+    "TopRowCount": "0",
+    "StartRow": "0",
+    "Limit": "10"
+}

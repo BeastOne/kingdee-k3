@@ -1,0 +1,106 @@
+{
+  "Creator": "",
+  "NeedUpDateFields": [],
+  "NeedReturnFields": [],
+  "IsDeleteEntry": "True",
+  "SubSystemId": "",
+  "IsVerifyBaseDataField": "false",
+  "IsEntryBatchFill": "True",
+  "Model": {
+    "FID": "0",
+    "FBillTypeID": {
+      "FNumber": "SKDLX01_SYS"
+    },
+    "FBillNo": "",
+    "FDATE": "",
+    "FCONTACTUNITTYPE": "BD_Customer",
+    "FCONTACTUNIT": {
+      "FNumber": ""
+    },
+    "FPAYUNITTYPE": "BD_Customer",
+    "FPAYUNIT": {
+      "FNumber": ""
+    },
+    "FCURRENCYID": {
+      "FNumber": "PRE001"
+    },
+    "FPAYORGID": {
+      "FNumber": ""
+    },
+    "FSETTLERATE": 1.0,
+    "FSETTLEORGID": {
+      "FNumber": ""
+    },
+    "FSALEORGID": {
+      "FNumber": ""
+    },
+    "FSALEDEPTID": {
+      "FNumber": ""
+    },
+    "FSALEGROUPID": {
+      "FNumber": ""
+    },
+    "FSALEERID": {
+      "FNumber": ""
+    },
+    "FDOCUMENTSTATUS": "Z",
+    "FDepartment": {
+      "FNumber": ""
+    },
+    "FBUSINESSTYPE": "1",
+    "FISINIT": false,
+    "FEXCHANGERATE": 1.0,
+    "FCancelStatus": "A",
+    "FScanPoint": {
+      "FNumber": ""
+    },
+    "FSETTLECUR": {
+      "FNumber": "PRE001"
+    },
+    "FISB2C": false,
+    "FWBSETTLENO": "",
+    "FIsWriteOff": false,
+    "FMatchMethodID": 0,
+    "FKDPAYNO": "",
+    "FREMARK": "",
+    "FRECEIVEBILLENTRY": [{
+      "FEntryID": null,
+      "FSETTLETYPEID": {
+        "FNumber": ""
+      },
+      "FPURPOSEID": {
+        "FNumber": ""
+      },
+      "FRECEIVEITEMTYPE": " ",
+      "FRECEIVEITEM": null,
+      "FSaleOrderID": 0,
+      "FRECTOTALAMOUNTFOR": 0.0,
+      "FRECAMOUNTFOR_E": 0.0,
+      "FSETTLEDISTAMOUNTFOR": 0.0,
+      "FHANDLINGCHARGEFOR": 0.0,
+      "FOVERUNDERAMOUNTFOR": 0.0,
+      "FACCOUNTID": {
+        "FNumber": ""
+      },
+      "FOPPOSITEBANKACCOUNT": null,
+      "FOPPOSITECCOUNTNAME": null,
+      "FINNERACCOUNTID": {
+        "FNumber": ""
+      },
+      "FCashAccount": {
+        "FNumber": ""
+      },
+      "FSETTLENO": null,
+      "FOPPOSITEBANKNAME": null,
+      "FCOMMENT": "",
+      "FRECAMOUNT_E": 975.0,
+      "FPOSTDATE": "",
+      "FMATERIALID": {
+        "FNumber": ""
+      },
+      "FSALEORDERNO": null,
+      "FMATERIALSEQ": "0",
+      "FORDERENTRYID": 0
+    }]
+  }
+}

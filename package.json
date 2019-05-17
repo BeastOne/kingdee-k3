@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BeastOne/node_k3.git"
+    "url": "git+https://github.com/BeastOne/kingdee-k3.git"
   },
   "keywords": [
     "Kingdee",
@@ -23,11 +23,11 @@
   "author": "Quin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BeastOne/node_k3/issues"
+    "url": "https://github.com/BeastOne/kingdee-k3/issues"
   },
-  "homepage": "https://github.com/BeastOne/node_k3#readme",
+  "homepage": "https://github.com/BeastOne/kingdee-k3",
   "dependencies": {
-    "lodash": "^4.17.11",
-    "kingdee-k3-webapi": "^1.0.0"
+    "kingdee-k3-webapi": "^1.0.5",
+    "lodash": "^4.17.11"
   }
 }
